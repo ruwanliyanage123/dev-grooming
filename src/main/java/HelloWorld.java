@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Hello, World by ruwan 4");
         System.out.println("Hello, World by ruwan 5");
         System.out.println("Hello, World by ruwan 5");
+        System.out.println("example for checrrypick");
     }
 }
